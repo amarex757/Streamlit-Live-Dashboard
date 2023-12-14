@@ -1,3 +1,5 @@
+![Streamlit logo](stream.png)
+
 ## Live Data Science Dashboard
 
 Streamlit is an open-source Python framework that lets you turn data scripts into shareable web apps in minutes. 
